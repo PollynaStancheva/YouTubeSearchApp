@@ -34,3 +34,21 @@ The goal of the assignment was to:
    ```bash
    git clone https://github.com/PollynaStancheva/YouTubeSearchApp.git
    cd YouTubeSearchApp
+
+## API Key Setup
+
+👉 For security reasons, the API key is NOT included in this repository.
+To run the project:
+
+Replace the placeholder in Program.cs:
+
+var apiKey = "YOUR_API_KEY_HERE";
+
+
+
+⚠️ Do NOT commit or share your personal API key publicly.
+
+🛠️ Development Process
+
+The project started by testing requests in Postman.
+After verifying the parameters and JSON response, the implementation was ported to C#, using HttpClient and Newtonsoft.Json.
