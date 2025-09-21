@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("YouTubeSearchApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+863f66fadb31563600e4d40673163636d3413069")]
 [assembly: System.Reflection.AssemblyProductAttribute("YouTubeSearchApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("YouTubeSearchApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
